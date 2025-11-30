@@ -39,6 +39,15 @@ I enjoy exploring how systems connect, communicate, and scale, and I am constant
   <img src="https://img.shields.io/badge/Cisco-Networking-1a1b1f?style=for-the-badge&logo=cisco&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-4285F4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/IBM-0f70b7?style=for-the-badge&logo=ibm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/3Utools-ff4500?style=for-the-badge&logo=appveyor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lucidchart-FF6A00?style=for-the-badge&logo=lucidchart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-E4C0FF?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ---
