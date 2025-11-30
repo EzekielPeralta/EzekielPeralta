@@ -22,6 +22,15 @@ I enjoy exploring how systems connect, communicate, and scale, and I am constant
 
 ---
 
+## 🎖️ Badges & Certifications
+
+| Badge | Issued By | Month Issued | Link |
+|-------|-----------|--------------|------|
+| SQL Database 101 | Cognitive Class (IBM) | Nov 2025 | [View Certificate](https://courses.cognitiveclass.ai/certificates/bd554c28ca79463eb8417a44d87ec290) |
+
+
+---
+
 ## 🛠 Skill Interests  
 
 - Networking fundamentals  
