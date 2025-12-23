@@ -24,12 +24,12 @@ I enjoy exploring how systems connect, communicate, and scale, and I am constant
 
 ## 🎖️ Badges & Certifications
 
-| Certification                                                        | Issued By             | Date Issued   | Credential                                                                                                                                     |
-| -------------------------------------------------------------------- | --------------------- | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Oracle Cloud Infrastructure 2025 Certified Foundations Associate** | Oracle                | December 2025 | [View Badge](https://catalog-education.oracle.com/pls/certview/sharebadge?id=0F8BE865A341CB2A48D90124B291F17F7DAB373BA22B4DE1B0BCA330806B9896) |
-| **Oracle Data Platform 2025 Certified Foundations Associate**        | Oracle                | December 2025 | [View Badge](https://catalog-education.oracle.com/pls/certview/sharebadge?id=9314BCE1F8D96F2B86FFB1656622C8FE22B3FC4E4D67E2CA8E78F9908F7BD405) |
-| SQL Database 101                                                     | Cognitive Class (IBM) | November 2025 | [View Certificate](https://courses.cognitiveclass.ai/certificates/bd554c28ca79463eb8417a44d87ec290)                                            |
-
+| Certification                                                         | Issued By | Date Issued   | Credential |
+|----------------------------------------------------------------------|-----------|---------------|------------|
+| **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** | Oracle    | December 2025 | [View Badge](https://catalog-education.oracle.com/pls/certview/sharebadge?id=5D8F44A7955B00F08B0FEAF619B9ADF6B4DB0158C84AE2BD63F866541271630D) |
+| **Oracle Cloud Infrastructure 2025 Certified Foundations Associate**  | Oracle    | December 2025 | [View Badge](https://catalog-education.oracle.com/pls/certview/sharebadge?id=0F8BE865A341CB2A48D90124B291F17F7DAB373BA22B4DE1B0BCA330806B9896) |
+| **Oracle Data Platform 2025 Certified Foundations Associate**         | Oracle    | December 2025 | [View Badge](https://catalog-education.oracle.com/pls/certview/sharebadge?id=9314BCE1F8D96F2B86FFB1656622C8FE22B3FC4E4D67E2CA8E78F9908F7BD405) |
+| SQL Database 101                                                      | Cognitive Class (IBM) | November 2025 | [View Certificate](https://courses.cognitiveclass.ai/certificates/bd554c28ca79463eb8417a44d87ec290) |
 
 ---
 
