@@ -5,11 +5,9 @@
 
 ### 🌟 About Me
 
-I am currently a 2nd-year Information Technology student at New Era University, pursuing a Bachelor of Science in Information Technology.  
-I am also a **Trainee of the Society of Information Technology Students (SITES)** at New Era University, gaining hands-on experience in IT projects and collaborative initiatives.  
+I am currently a 2nd-year Information Technology student at New Era University, pursuing a Bachelor of Science in Information Technology. I am also a **Trainee of the Society of Information Technology Students (SITES)** at New Era University, gaining hands-on experience in IT projects and collaborative initiatives.  
 
-I am highly interested in networking, IT infrastructure, and project management, aiming to one day work as a networking specialist or project master managing large-scale IT initiatives.  
-I enjoy exploring how systems connect, communicate, and scale, and I am constantly improving my knowledge in networking, hardware/software integration, and organizational leadership in IT environments.  
+I am highly interested in networking, IT infrastructure, and project management, aiming to one day work as a networking specialist or project master managing large-scale IT initiatives. I enjoy exploring how systems connect, communicate, and scale, and I am constantly improving my knowledge in networking, hardware/software integration, and organizational leadership in IT environments.  
 
 ---
 
